@@ -1,0 +1,6 @@
+include(":app")
+include(":core")
+include(":data")
+include(":domain")
+include(":features")
+include(":features:artwork")

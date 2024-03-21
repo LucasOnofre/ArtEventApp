@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="try_again">Try Again\n</string>
+
+    <!--Art Event List-->
+    <string name="art_event_list_item_id">ID:</string>
+
+    <!--Art Event Detail-->
+    <string name="art_event_details_header_title">Event Details</string>
+    <string name="art_favorites_header_title">Favorites</string>
+    <string name="art_event_detail_name">ID:</string>
+
+    <!--Common-->
+    <string name="art_event_list_no_result">No Results</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="ok">Ok</string>
+    <string name="back_button">Back button</string>
+</resources>

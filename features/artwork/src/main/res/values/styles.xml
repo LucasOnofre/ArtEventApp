@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LogOffTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/blue3679f6</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">@color/blue3679f6</item>
+        <item name="android:textColorPrimary">@color/black333333</item>
+    </style>
+</resources>
